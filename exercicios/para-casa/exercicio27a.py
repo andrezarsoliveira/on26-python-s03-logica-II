@@ -1,6 +1,6 @@
 #EXERCÍCIO 27
-peso_morango = float(input("Digite a quantidade de morangos em kg: "))
-peso_maca = float(input("Digite a quantidade de maças em kg: "))
+morango = float(input("Digite a quantidade de morangos em kg: "))
+maca = float(input("Digite a quantidade de maças em kg: "))
 #MORANGOS
 preco_menor_mor = morango * 2.50
 preco_maior_mor = morango * 2.20
